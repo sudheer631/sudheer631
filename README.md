@@ -7,11 +7,11 @@
 <!-- ===================== 1. HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sudheer%20Danduboyina&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern&descAlignY=58&descSize=22" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sudheer%20Danduboyina&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development&descAlignY=58&descSize=22" alt="Banner" width="100%"/>
 
 <!-- UPDATE: change the typing lines below (separate lines with semicolons, use + for spaces) -->
 <a href="https://sudheer-dev-nexus.lovable.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sudheer+%F0%9F%91%8B;Software+Engineering+Intern;Full-Stack+Java+Developer;Backend+Development+Enthusiast;Problem+Solver+%26+Open+Source+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sudheer+%F0%9F%91%8B;Full+Stack+Development;Java+Developer;Backend+Development+Enthusiast;Problem+Solver+%26+Open+Source+Fan" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 <!-- UPDATE: edit this list whenever your status changes -->
 - 🎓 B.Tech in **Computer Science & Engineering** at **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology** (2024 – 2027), CGPA **8.5**
-- 💼 **Software Engineering Intern**, building a strong foundation in Java, full-stack development, and data structures
+- 💼 **Full Stack Development** enthusiast, building a strong foundation in Java, full-stack development, and data structures
 - 📍 Based in **Andhra Pradesh, India**
 - 🎯 **Career goal:** a Software Engineer role where I can solve real-world problems and contribute to impactful software projects
 - 💡 **Interests:** Backend Development · Problem Solving · Open Source · Gaming
