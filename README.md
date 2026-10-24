@@ -93,6 +93,12 @@ An application that simulates core banking operations, such as managing accounts
 
 [![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudheer631/BankManagemnetSystem)
 
+### 💼 Job Portal Management System
+A job portal application that connects job seekers with employers. It supports managing job listings and applications in one place, making the hiring process simpler to organize and track.
+
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudheer631/Job_portel_management_system)
+[![Local Demo](https://img.shields.io/badge/Local_Demo-JobBridge-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](http://localhost:8080/auth/register)
+
 ---
 
 <!-- ===================== 5. GITHUB STATS ===================== -->
